@@ -1,0 +1,21 @@
+{
+    "name": "phoenixdigi/translate",
+    "description": "",
+    "type": "library",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "ABC",
+            "email": "contact@yertty.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.9"
+    },
+    "autoload": {
+        "files": [
+            "plugin.php"
+        ]
+    }
+}
